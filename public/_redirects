@@ -1,0 +1,3 @@
+# Necessário só se o site for hospedado na Netlify (o Lovable já faz isso sozinho):
+# todas as rotas abrem o index.html (site de página única).
+/*    /index.html   200

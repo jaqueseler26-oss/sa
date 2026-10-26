@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Mapa do site para o Google. Ao publicar um artigo novo, adicione a URL dele aqui (ou peça ao Lovable para gerar automaticamente). -->
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url><loc>https://lbaassessoriajuridica.com.br/</loc><changefreq>monthly</changefreq><priority>1.0</priority></url>
+  <url><loc>https://lbaassessoriajuridica.com.br/artigos/</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://lbaassessoriajuridica.com.br/licitacoes/</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://lbaassessoriajuridica.com.br/agronegocio/</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://lbaassessoriajuridica.com.br/team/henrik-lopes/</loc><priority>0.6</priority></url>
+  <url><loc>https://lbaassessoriajuridica.com.br/team/rafael-batista/</loc><priority>0.6</priority></url>
+  <url><loc>https://lbaassessoriajuridica.com.br/team/thais-antunes/</loc><priority>0.6</priority></url>
+  <url><loc>https://lbaassessoriajuridica.com.br/team/mikele-lopes/</loc><priority>0.6</priority></url>
+  <url><loc>https://lbaassessoriajuridica.com.br/bilhoes-em-jogo-a-alavanca-juridica-estrategica-para-contratos-de-alto-valor-em-licitacoes/</loc><lastmod>2025-04-30</lastmod></url>
+  <url><loc>https://lbaassessoriajuridica.com.br/parcerias-publico-privadas-em-unidades-educacionais-uma-alternativa-para-reducao-de-custos-e-melhoria-na-educacao-publica/</loc><lastmod>2025-03-13</lastmod></url>
+  <url><loc>https://lbaassessoriajuridica.com.br/receita-federal-e-monitoramento-de-transacoes-via-pix-o-que-voce-precisa-saber/</loc><lastmod>2025-01-06</lastmod></url>
+  <url><loc>https://lbaassessoriajuridica.com.br/o-verificador-independente-escolha-estrategica-ou-obstaculo-em-contratos-de-ppp/</loc><lastmod>2024-12-13</lastmod></url>
+  <url><loc>https://lbaassessoriajuridica.com.br/do-planejamento-a-transformacao-como-as-ppps-integram-publico-e-privado-2/</loc><lastmod>2024-12-12</lastmod></url>
+  <url><loc>https://lbaassessoriajuridica.com.br/suspensao-de-embargos-ambientais-em-areas-rurais-consolidadas/</loc><lastmod>2025-04-07</lastmod></url>
+  <url><loc>https://lbaassessoriajuridica.com.br/apreensao-de-veiculos-e-maquinas-locados-devido-a-infracao-ambiental/</loc><lastmod>2025-02-17</lastmod></url>
+  <url><loc>https://lbaassessoriajuridica.com.br/propriedade-atingida-por-uso-irregular-de-fogo-consequencias-legais-e-medidas-de-protecao-para-o-proprietario/</loc><lastmod>2025-01-22</lastmod></url>
+  <url><loc>https://lbaassessoriajuridica.com.br/prorrogacao-e-renegociacao-de-dividas-no-ambito-do-manual-de-credito-rural-mcr/</loc><lastmod>2025-01-03</lastmod></url>
+  <url><loc>https://lbaassessoriajuridica.com.br/politica-de-privacidade/</loc><priority>0.3</priority></url>
+</urlset>
